@@ -1,0 +1,3 @@
+tokyo,area,1,tokyo abc
+Japan,tokyo,data,abc
+USA,CA,data2,def
